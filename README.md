@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left">Skills</h2>
 
 ###
 
@@ -46,10 +46,13 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Sksameer77/Sksameer77/snake-output/snake.svg" alt="Snake animation" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sksameer75&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sksameer75&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sksameer75&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###
 
+### Connect with me
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/sameer-basha-shaik-a28385258/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -62,6 +65,10 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ###
 
