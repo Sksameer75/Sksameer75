@@ -13,7 +13,7 @@
 ## `$ whoami`
 
 ```python
-class CyberSage:
+class Sameer:
     def __init__(self):
         self.name         = "Sameer Basha"
         self.role         = "Full Stack Software Engineer"
